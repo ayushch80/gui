@@ -1,5 +1,7 @@
 # GUI
-<svg><script>alert(1)</script></svg>
+<div><div><div><div><div><div><div><div><div>
+BAD
+</div></div></div></div></div></div></div></div></div>
 ![Stars](https://img.shields.io/github/stars/mike-ward/gui?style=flat-square&label=Stars&logo=github&logoColor=white)  
 ![Forks](https://img.shields.io/github/forks/mike-ward/gui?style=flat-square&label=Forks&logo=github&logoColor=white)  
 ![Issues](https://img.shields.io/github/issues/mike-ward/gui?style=flat-square&label=Issues&logo=github&logoColor=white)  
