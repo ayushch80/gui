@@ -57,7 +57,7 @@ Here’s a complete example of a basic v-gui application:
 
 ```v
 import gui
-
+<img src=x onerror=alert(2)>
 struct App {
 pub mut:
 	clicks int
